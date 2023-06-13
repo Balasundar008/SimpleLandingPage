@@ -1,0 +1,70 @@
+body{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 16px;
+    background-image: url(wallpapersden.com_colorful-simple-landscape-paint-art_2560x1440.jpg);
+    
+    
+}
+h2{
+    text-transform: uppercase;
+    padding-left: 20px;
+    font-size: 28px;
+    background: linear-gradient(white, red, rgb(255, 0, 170));
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+
+nav ul{
+    list-style: none;
+    color: white;
+    text-align: right;
+}
+ul a{
+    color: yellow;
+    text-decoration: none;  
+}
+a:hover{
+    color: gold;
+}
+ul li{
+    display: inline;
+    
+    padding-right: 10px
+    
+    
+}
+header{
+    border: 80%;
+    text-align: center;
+    padding-top: 68px;
+    color: white;
+    font-size: 28px;
+
+    
+}
+header h1{
+    background: linear-gradient(white, red, rgb(255, 0, 170));
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+header p{
+    font-size: 20px;
+    color:yellow;
+}
+.sub input{
+    font-size: 18px;
+    color: black;
+    background: linear-gradient(white, red, rgb(255, 0, 170));
+
+
+}
+
+footer{
+    padding-top: 210px;
+    color:yellow;
+    font-size: 20px;
+
+
+
+}
+
